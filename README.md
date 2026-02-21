@@ -1,55 +1,68 @@
-<h1>¡Hola! 👋 Soy Álvaro Díaz Chang</h1>
-<h3>💻 Jr. Full Stack Developer | Apasionado por el Backend</h3>
+<h1 align="center">¡Hola! 👋 Soy Álvaro Díaz Chang</h1>
+<h3 align="center">💻 Software Developer | Backend (Java/Spring) & AI Integrations</h3>
 
-<p>
-  Estudiante de <strong>Ingeniería de Sistemas</strong> con una profunda pasión por la programación y la resolución de problemas. <br>
-  Me encanta construir soluciones eficientes, aprender nuevas tecnologías y crear experiencias digitales funcionales.
+<p align="center">
+  Estudiante de <strong>Ingeniería de Sistemas</strong> enfocado en la construcción de arquitecturas backend robustas y el desarrollo de soluciones impulsadas por Inteligencia Artificial. Me especializo en el ecosistema Java para el diseño de APIs RESTful escalables y actualmente construyo sistemas de agentes autónomos y flujos de trabajo inteligentes.
 </p>
 
 ---
 
 ### 🧠 Sobre mí
 
-- 🔍 Apasionado por el desarrollo **web full stack**, con enfoque en **backend** y **bases de datos relacionales**.
-- 🌱 Actualmente profundizo en **Spring Boot**, **Arquitectura de software** y **patrones de diseño**.
-- ⚙️ Experiencia en desarrollo de APIs REST, autenticación con JWT, integración con bases de datos y más.
-- 🚀 Siempre estoy construyendo proyectos personales para aplicar lo aprendido.
-- 📫 Puedes contactarme a: **alvarocesardiazchang2@gmail.com**
+- ⚙️ **Backend Core:** Experiencia profunda en **Java, Spring Boot**, diseño de APIs REST, seguridad (JWT/OAuth2) y modelado de bases de datos relacionales.
+- 🤖 **AI & Automations:** Desarrollando sistemas multi-agente y orquestación de LLMs utilizando **Python, LangGraph, CrewAI** y **MCPs** (Model Context Protocol).
+- 🌐 **Full Stack & UI:** Capacidad para integrar arquitecturas complejas con interfaces web modernas usando **React, TypeScript y Astro**.
+- 🏗️ **Ingeniería de Software:** Fuerte enfoque en **Arquitectura Limpia**, Patrones de Diseño (SOLID) y creación de soluciones altamente eficientes.
+- 📫 Contacto directo: **alvarocesardiazchang2@gmail.com**
 
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🚀 Tecnologías y Herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,cs,python,mysql,postgres,spring,react,astro,redux,vite,git,github,vscode,figma,bootstrap,tailwind" />
+**Backend & Bases de Datos**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,mysql,postgres&theme=dark" />
+</p>
+
+**Inteligencia Artificial & Datos**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCPs-4B32C3?style=for-the-badge&logo=opena&logoColor=white" />
+</p>
+
+**Frontend & Herramientas**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,astro,redux,vite,tailwind,bootstrap,git,github,vscode,figma&theme=dark" />
 </p>
 
 ---
 
-### 📌 Proyectos destacados
+### 📌 Proyectos Destacados
 
-- 🎯 **[ChocoPeru](https://github.com/alvaro234214125/chocoperu-backend)** – Ecommerce completo con autenticación JWT, sistema de pagos, carrito, valoraciones, y más.  
-- 🛠️ **[CRM](https://github.com/alvaro234214125/crm-backend)** – Sistema de gestión integral para el manejo de clientes y procesos internos.
+- 🎯 **[ChocoPeru](https://github.com/alvaro234214125/chocoperu-backend)** – Plataforma E-commerce completa. Arquitectura backend con autenticación JWT, integración de pasarelas de pago, gestión de carrito y sistema de valoraciones.
+- 🛠️ **[CRM Backend](https://github.com/alvaro234214125/crm-backend)** – Sistema de gestión integral (Customer Relationship Management) diseñado para optimizar el manejo de clientes, seguimiento de procesos internos y control de datos.
+- 🤖 **[Tu Proyecto de IA aquí]** – *(Espacio reservado para tu primer gran proyecto usando LangGraph o CrewAI).*
 
-> Explora más proyectos en la sección de repositorios 👇
+> Explora el código fuente y más proyectos en mi sección de repositorios 👇
 
 ---
 
-### 📈 Estadísticas en GitHub
+### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro234214125&layout=compact&theme=github_dark&langs_count=10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro234214125&show_icons=true&theme=github_dark&hide=issues&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro234214125&layout=compact&theme=github_dark&langs_count=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro234214125&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="48%" />
 </p>
 
 ---
 
-### 🧩 Intereses actuales
+### 🧩 Enfoque y Aprendizaje Continuo
 
-- 🔐 Seguridad en aplicaciones web (JWT, OAuth2, HTTPS)
-- 🧪 Testing con JUnit, Mockito y Cypress
-- 🕸️ Frontend moderno con React + Vite
-- 🧱 Arquitectura limpia y buenas prácticas en Java
+- 🔐 Construcción de microservicios y seguridad en aplicaciones web.
+- 🧠 Implementación de Model Context Protocol (MCPs) para conectar IAs con bases de datos locales.
+- 🧪 Testing automatizado con JUnit y Mockito para asegurar la calidad del código.
 
 ---
 
@@ -57,19 +70,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/alvarodiazchang" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alvarocesardiazchang2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://facebook.com/alvaro.suha" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/diaz.alvaroo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  📌 Hecho <strong>Álvaro Díaz Chang</strong>
 </p>
