@@ -50,8 +50,9 @@
 
 ### 📈 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodiaz-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/alvarodiaz-dev)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarodiaz-dev&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true)](https://github.com/alvarodiaz-dev)
+<p align="center">
+  <img src="https://metrics.lecoq.io/alvarodiaz-dev?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FLima&theme=dark" alt="GitHub Metrics" />
+</p>
 
 ---
 
