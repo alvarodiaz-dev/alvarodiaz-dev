@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Álvaro Díaz Chang</h1>
-<h3 align="center">💻 Software Developer | Backend (Java/Spring) & AI Integrations</h3>
+<h1>¡Hola! 👋 Soy Álvaro Díaz Chang</h1>
+<h3>💻 Software Developer | Backend (Java/Spring) & AI Integrations</h3>
 
-<p align="center">
+<p>
   Estudiante de <strong>Ingeniería de Sistemas</strong> enfocado en la construcción de arquitecturas backend robustas y el desarrollo de soluciones impulsadas por Inteligencia Artificial. Me especializo en el ecosistema Java para el diseño de APIs RESTful escalables y actualmente construyo sistemas de agentes autónomos y flujos de trabajo inteligentes.
 </p>
 
@@ -41,9 +41,8 @@
 
 ### 📌 Proyectos Destacados
 
-- 🎯 **[ChocoPeru](https://github.com/alvaro234214125/chocoperu-backend)** – Plataforma E-commerce completa. Arquitectura backend con autenticación JWT, integración de pasarelas de pago, gestión de carrito y sistema de valoraciones.
+- 🤖 **[Multi-AI-Agent-Orchestrator](https://github.com/alvarodiaz-dev/system-multi-ai-agent)** – Orquestador de agentes autónomos con enrutamiento dinámico. El sistema evalúa la intención del usuario y decide el flujo óptimo: ejecución de Web Scraping avanzado mediante MCPs, búsqueda semántica en documentos internos utilizando RAG, o resolución directa vía LLM para consultas generales.
 - 🛠️ **[CRM Backend](https://github.com/alvaro234214125/crm-backend)** – Sistema de gestión integral (Customer Relationship Management) diseñado para optimizar el manejo de clientes, seguimiento de procesos internos y control de datos.
-- 🤖 **[Tu Proyecto de IA aquí]** – *(Espacio reservado para tu primer gran proyecto usando LangGraph o CrewAI).*
 
 > Explora el código fuente y más proyectos en mi sección de repositorios 👇
 
@@ -52,17 +51,9 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro234214125&layout=compact&theme=github_dark&langs_count=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro234214125&show_icons=true&theme=github_dark&hide=issues&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro234214125&layout=compact&theme=github_dark&langs_count=10&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=alvaro234214125&theme=github-dark&hide_border=true" width="48%" />
 </p>
-
----
-
-### 🧩 Enfoque y Aprendizaje Continuo
-
-- 🔐 Construcción de microservicios y seguridad en aplicaciones web.
-- 🧠 Implementación de Model Context Protocol (MCPs) para conectar IAs con bases de datos locales.
-- 🧪 Testing automatizado con JUnit y Mockito para asegurar la calidad del código.
 
 ---
 
