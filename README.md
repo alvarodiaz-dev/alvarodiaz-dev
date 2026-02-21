@@ -50,10 +50,8 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodiaz-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alvarodiaz-dev&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodiaz-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8)](https://github.com/alvarodiaz-dev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarodiaz-dev&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true)](https://github.com/alvarodiaz-dev)
 
 ---
 
