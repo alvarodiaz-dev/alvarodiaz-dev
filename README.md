@@ -50,9 +50,7 @@
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/alvarodiaz-dev?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America%2FLima&theme=dark" alt="GitHub Metrics" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarodiaz-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
