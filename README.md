@@ -50,13 +50,7 @@
 
 ### 📈 GitHub Analytics
 
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarodiaz-dev&show_icons=true&theme=tokyonight)
-
-## 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=alvarodiaz-dev&theme=tokyonight)
-
-## 💻 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarodiaz-dev&layout=compact&theme=tokyonight)
 
 ---
